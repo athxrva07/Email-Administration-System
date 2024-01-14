@@ -1,4 +1,8 @@
 # Email Administration System Using Java
 
-### You can create employee objects and generate company email, password and department.
-### You can also change the password and set an alternate email.
+### 1. Create employee objects.
+### 2. Select the department.
+### 3. Generate a company email and a random password.
+### 4. Change the password.
+### 5. Add an alternate email.
+### 6. Display name, department and email.
